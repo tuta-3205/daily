@@ -21,6 +21,9 @@ DerivedData/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
+Podfile
+Podfile.lock
+Pods/
 
 ## Obj-C/Swift specific
 *.hmap
